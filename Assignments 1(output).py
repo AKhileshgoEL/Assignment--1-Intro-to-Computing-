@@ -10,7 +10,7 @@ tax:
 Enter Name:Akhilesh Goel
 Enter SID:21104057 
 Enter Gender:Male 
-Enter Course_Name:EE
+Enter Course_Name:EE 
 cgpa10
 student_info ['Akhilesh Goel', '21104057', 'Male', 'EE', 10.0]
 Enter student 1 marks:64
