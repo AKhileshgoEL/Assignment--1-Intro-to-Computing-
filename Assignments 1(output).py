@@ -5,7 +5,7 @@ Enter number 3: 9
 8.0
 Enter gross income: 1000000
 Enter the no. of dependents: 2
-tax:
+tax: 
 196800.0
 Enter Name:Akhilesh Goel
 Enter SID:21104057
