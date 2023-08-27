@@ -3,7 +3,7 @@ Enter number 1: 7
 Enter number 2: 8
 Enter number 3: 9
 8.0
-Enter gross income: 1000000 
+Enter gross income: 1000000  
 Enter the no. of dependents: 2
 tax: 
 196800.0
